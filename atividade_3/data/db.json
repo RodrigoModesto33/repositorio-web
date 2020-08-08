@@ -1,0 +1,16 @@
+{
+  "disciplinas": [
+    {
+      "nome": "Desenvolvimento Web",
+      "curso": "Engenharia de Software",
+      "capacidade": "30",
+      "id": 0
+    },
+    {
+      "nome": "TGS",
+      "curso": "Sistema de Informação",
+      "capacidade": "30",
+      "id": 1
+    }
+  ]
+}
