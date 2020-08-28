@@ -31,7 +31,7 @@ export default class Create extends Component {
     }
 
     axios
-      .post("http://localhost:3001/disciplinas", novaDisciplina)
+      .post("http://localhost:3002/disciplinas/register", novaDisciplina)
       .then((res) => {
         console.log(res.data.id);
       })
